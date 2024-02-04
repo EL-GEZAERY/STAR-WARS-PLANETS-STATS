@@ -1,0 +1,14 @@
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\bin\Debug\net7.0\08_StarWarsPlanetsStats.exe
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\bin\Debug\net7.0\08_StarWarsPlanetsStats.deps.json
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\bin\Debug\net7.0\08_StarWarsPlanetsStats.runtimeconfig.json
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\bin\Debug\net7.0\08_StarWarsPlanetsStats.dll
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\bin\Debug\net7.0\08_StarWarsPlanetsStats.pdb
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\obj\Debug\net7.0\08_StarWarsPlanetsStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\obj\Debug\net7.0\08_StarWarsPlanetsStats.AssemblyInfoInputs.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\obj\Debug\net7.0\08_StarWarsPlanetsStats.AssemblyInfo.cs
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\obj\Debug\net7.0\08_StarWarsPlanetsStats.csproj.CoreCompileInputs.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\obj\Debug\net7.0\08_StarWarsPlanetsStats.dll
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\obj\Debug\net7.0\refint\08_StarWarsPlanetsStats.dll
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\obj\Debug\net7.0\08_StarWarsPlanetsStats.pdb
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\obj\Debug\net7.0\08_StarWarsPlanetsStats.genruntimeconfig.cache
+C:\fullstack\udemy-C#\UltimateCSharpMasterclass-main\08_StarWarsPlanetsStats\obj\Debug\net7.0\ref\08_StarWarsPlanetsStats.dll
